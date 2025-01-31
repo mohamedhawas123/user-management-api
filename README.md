@@ -1,7 +1,7 @@
-to run project
-npm install
-npm run migrate
-node server.js
+## to run project
+## npm install
+## npm run migrate
+## node server.js
 
 ##  Features
 User Registration**
